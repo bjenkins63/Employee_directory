@@ -25,16 +25,8 @@ _________
 ## Screenshots
 
 
-**Above:**  *Opening Screen
+![](src/directory.jpg)
 
-_________
-
-**Above:**  *Note taking Screen
-
-_________
-![](src/notepad3.png)
-
-**Above:**  *Saved Note Screen
 
 
 _________
